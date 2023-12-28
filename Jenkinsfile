@@ -1,4 +1,4 @@
-pipieline{
+pipeline{
      //Directives
      agent any
      tools {
